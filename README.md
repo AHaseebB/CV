@@ -1,3 +1,3 @@
 # CV
 My CV website
-Coded in HTML
+coded in HTML
